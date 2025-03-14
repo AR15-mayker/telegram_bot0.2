@@ -1,0 +1,133 @@
+2025-03-14 at 12:32:10 | INFO | Бот создан
+2025-03-14 at 12:32:10 | INFO | Диспетчер создан
+2025-03-14 at 12:32:10 | ERROR | Ошибка при отправке сообщения 2 validation errors for SendMessage
+chat_id.int
+  Input should be a valid integer [type=int_type, input_value=None, input_type=NoneType]
+    For further information visit https://errors.pydantic.dev/2.10/v/int_type
+chat_id.str
+  Input should be a valid string [type=string_type, input_value=None, input_type=NoneType]
+    For further information visit https://errors.pydantic.dev/2.10/v/string_type
+2025-03-14 at 12:32:40 | ERROR | Ошибка при отправке сообщения 2 validation errors for SendMessage
+chat_id.int
+  Input should be a valid integer [type=int_type, input_value=None, input_type=NoneType]
+    For further information visit https://errors.pydantic.dev/2.10/v/int_type
+chat_id.str
+  Input should be a valid string [type=string_type, input_value=None, input_type=NoneType]
+    For further information visit https://errors.pydantic.dev/2.10/v/string_type
+2025-03-14 at 12:32:43 | INFO | Бот остановлен
+2025-03-14 at 12:34:54 | INFO | Бот создан
+2025-03-14 at 12:34:54 | INFO | Диспетчер создан
+2025-03-14 at 12:34:54 | ERROR | Ошибка при отправке сообщения 2 validation errors for SendMessage
+chat_id.int
+  Input should be a valid integer [type=int_type, input_value=None, input_type=NoneType]
+    For further information visit https://errors.pydantic.dev/2.10/v/int_type
+chat_id.str
+  Input should be a valid string [type=string_type, input_value=None, input_type=NoneType]
+    For further information visit https://errors.pydantic.dev/2.10/v/string_type
+2025-03-14 at 12:34:59 | INFO | Бот остановлен
+2025-03-14 at 12:37:03 | INFO | Бот создан
+2025-03-14 at 12:37:03 | INFO | Диспетчер создан
+2025-03-14 at 12:37:03 | ERROR | Ошибка при отправке сообщения 2 validation errors for SendMessage
+chat_id.int
+  Input should be a valid integer [type=int_type, input_value=None, input_type=NoneType]
+    For further information visit https://errors.pydantic.dev/2.10/v/int_type
+chat_id.str
+  Input should be a valid string [type=string_type, input_value=None, input_type=NoneType]
+    For further information visit https://errors.pydantic.dev/2.10/v/string_type
+2025-03-14 at 12:37:33 | ERROR | Ошибка при отправке сообщения 2 validation errors for SendMessage
+chat_id.int
+  Input should be a valid integer [type=int_type, input_value=None, input_type=NoneType]
+    For further information visit https://errors.pydantic.dev/2.10/v/int_type
+chat_id.str
+  Input should be a valid string [type=string_type, input_value=None, input_type=NoneType]
+    For further information visit https://errors.pydantic.dev/2.10/v/string_type
+2025-03-14 at 12:37:56 | INFO | Бот остановлен
+2025-03-14 at 12:38:01 | INFO | Бот создан
+2025-03-14 at 12:38:01 | INFO | Диспетчер создан
+2025-03-14 at 12:38:01 | ERROR | Ошибка при отправке сообщения 2 validation errors for SendMessage
+chat_id.int
+  Input should be a valid integer [type=int_type, input_value=None, input_type=NoneType]
+    For further information visit https://errors.pydantic.dev/2.10/v/int_type
+chat_id.str
+  Input should be a valid string [type=string_type, input_value=None, input_type=NoneType]
+    For further information visit https://errors.pydantic.dev/2.10/v/string_type
+2025-03-14 at 12:38:06 | INFO | Бот остановлен
+2025-03-14 at 12:40:25 | INFO | Бот создан
+2025-03-14 at 12:40:25 | INFO | Диспетчер создан
+2025-03-14 at 12:40:25 | ERROR | Ошибка при отправке сообщения 2 validation errors for SendMessage
+chat_id.int
+  Input should be a valid integer [type=int_type, input_value=None, input_type=NoneType]
+    For further information visit https://errors.pydantic.dev/2.10/v/int_type
+chat_id.str
+  Input should be a valid string [type=string_type, input_value=None, input_type=NoneType]
+    For further information visit https://errors.pydantic.dev/2.10/v/string_type
+2025-03-14 at 12:40:55 | ERROR | Ошибка при отправке сообщения 2 validation errors for SendMessage
+chat_id.int
+  Input should be a valid integer [type=int_type, input_value=None, input_type=NoneType]
+    For further information visit https://errors.pydantic.dev/2.10/v/int_type
+chat_id.str
+  Input should be a valid string [type=string_type, input_value=None, input_type=NoneType]
+    For further information visit https://errors.pydantic.dev/2.10/v/string_type
+2025-03-14 at 12:41:25 | ERROR | Ошибка при отправке сообщения 2 validation errors for SendMessage
+chat_id.int
+  Input should be a valid integer [type=int_type, input_value=None, input_type=NoneType]
+    For further information visit https://errors.pydantic.dev/2.10/v/int_type
+chat_id.str
+  Input should be a valid string [type=string_type, input_value=None, input_type=NoneType]
+    For further information visit https://errors.pydantic.dev/2.10/v/string_type
+2025-03-14 at 12:41:46 | INFO | Бот остановлен
+2025-03-14 at 12:42:14 | INFO | Бот создан
+2025-03-14 at 12:42:14 | INFO | Диспетчер создан
+2025-03-14 at 12:42:14 | ERROR | Ошибка при отправке сообщения 2 validation errors for SendMessage
+chat_id.int
+  Input should be a valid integer [type=int_type, input_value=None, input_type=NoneType]
+    For further information visit https://errors.pydantic.dev/2.10/v/int_type
+chat_id.str
+  Input should be a valid string [type=string_type, input_value=None, input_type=NoneType]
+    For further information visit https://errors.pydantic.dev/2.10/v/string_type
+2025-03-14 at 12:42:28 | INFO | Бот остановлен
+2025-03-14 at 12:42:33 | INFO | Бот создан
+2025-03-14 at 12:42:33 | INFO | Диспетчер создан
+2025-03-14 at 12:42:33 | ERROR | Ошибка при отправке сообщения 2 validation errors for SendMessage
+chat_id.int
+  Input should be a valid integer [type=int_type, input_value=None, input_type=NoneType]
+    For further information visit https://errors.pydantic.dev/2.10/v/int_type
+chat_id.str
+  Input should be a valid string [type=string_type, input_value=None, input_type=NoneType]
+    For further information visit https://errors.pydantic.dev/2.10/v/string_type
+2025-03-14 at 12:42:57 | INFO | Бот остановлен
+2025-03-14 at 12:43:03 | INFO | Бот создан
+2025-03-14 at 12:43:03 | INFO | Диспетчер создан
+2025-03-14 at 12:43:03 | ERROR | Ошибка при отправке сообщения 2 validation errors for SendMessage
+chat_id.int
+  Input should be a valid integer [type=int_type, input_value=None, input_type=NoneType]
+    For further information visit https://errors.pydantic.dev/2.10/v/int_type
+chat_id.str
+  Input should be a valid string [type=string_type, input_value=None, input_type=NoneType]
+    For further information visit https://errors.pydantic.dev/2.10/v/string_type
+2025-03-14 at 12:43:09 | INFO | Бот остановлен
+2025-03-14 at 12:43:25 | INFO | Бот создан
+2025-03-14 at 12:43:25 | INFO | Диспетчер создан
+2025-03-14 at 12:43:25 | ERROR | Ошибка при отправке сообщения 2 validation errors for SendMessage
+chat_id.int
+  Input should be a valid integer [type=int_type, input_value=None, input_type=NoneType]
+    For further information visit https://errors.pydantic.dev/2.10/v/int_type
+chat_id.str
+  Input should be a valid string [type=string_type, input_value=None, input_type=NoneType]
+    For further information visit https://errors.pydantic.dev/2.10/v/string_type
+2025-03-14 at 12:43:28 | INFO | Бот остановлен
+2025-03-14 at 13:08:05 | INFO | Бот создан
+2025-03-14 at 13:08:05 | INFO | Диспетчер создан
+2025-03-14 at 13:08:05 | ERROR | Ошибка при отправке сообщения 2 validation errors for SendMessage
+chat_id.int
+  Input should be a valid integer [type=int_type, input_value=None, input_type=NoneType]
+    For further information visit https://errors.pydantic.dev/2.10/v/int_type
+chat_id.str
+  Input should be a valid string [type=string_type, input_value=None, input_type=NoneType]
+    For further information visit https://errors.pydantic.dev/2.10/v/string_type
+2025-03-14 at 13:08:08 | INFO | Бот остановлен
+2025-03-14 at 13:08:36 | INFO | Бот создан
+2025-03-14 at 13:08:36 | INFO | Диспетчер создан
+2025-03-14 at 13:08:36 | INFO | Опублекован анекдот: Ученые-египтологи установили:"Пирамида власти" все-таки более устойчива, чем "вертикаль"...
+2025-03-14 at 13:09:06 | INFO | Опублекован анекдот: Революция в генной инженерии! Первый удачный опыт соединения животного ирастения - селедка с луком.
+2025-03-14 at 13:09:18 | INFO | Бот остановлен
